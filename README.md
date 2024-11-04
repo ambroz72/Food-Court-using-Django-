@@ -1,2 +1,2 @@
 # work under progress...
-![screenshot](screenshot/fcp.png)
+![screenshot](screenshort/fcp.png)
